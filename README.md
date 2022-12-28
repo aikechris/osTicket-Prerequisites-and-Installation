@@ -5,8 +5,7 @@ Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs
 When creating the VM, allow it to create a new Virtual Network (Vnet)
 
 Part 2 (Installation)
-! ATTENTION !
-I don’t recommend trying to learn how to do the rest of this lab “from memory” because there are a lot of arbitrary steps. I do recommend just following me along in the video every time for this section. Focus on understanding!!
+
 Connect to your Virtual Machine with Remote Desktop
 Install / Enable IIS in Windows
 Install Web Platform Installer (download from within lab files: link)
